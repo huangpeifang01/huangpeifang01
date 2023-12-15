@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m huang peifang，很高兴遇见你呀！
-- 👀 I’m interested in Computer Vision and Deep learning.
+- 👀 I’m interested in Computer Vision 、Image Processing、 Deep learning.
 - 📫 Email :hpfalisa@163.com
 - 📚 我的CSDN博客（CSDN Blog） https://blog.csdn.net/HPF6611?spm=1010.2135.3001.5421
 - 🍱 我的知乎（Zhihu） https://www.zhihu.com/people/liulang-93
